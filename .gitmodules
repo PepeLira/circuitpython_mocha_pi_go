@@ -88,7 +88,10 @@
 	url = https://github.com/pewpew-game/pew-pewpew-standalone-10.x.git
 [submodule "frozen/circuitpython-stage"]
 	path = frozen/circuitpython-stage
-	url = https://github.com/python-ugame/circuitpython-stage.git
+	url = https://github.com/PepeLira/circuitpython-stage
+[submodule "frozen/circuitpython-stage-mocha-pi-go"]
+	path = frozen/circuitpython-stage-mocha-pi-go
+	url = https://github.com/PepeLira/circuitpython-stage-mocha-pi-go
 [submodule "ports/cxd56/spresense-exported-sdk"]
 	path = ports/cxd56/spresense-exported-sdk
 	url = https://github.com/sonydevworld/spresense-exported-sdk.git
